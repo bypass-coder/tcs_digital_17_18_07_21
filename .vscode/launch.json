@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "tcs_digital_17_07_21_3971435b"
+        },
+        {
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
